@@ -19,7 +19,7 @@ body {
 }
 
 .left-section {
-    grid-column: span 2;
+    grid-column: span 2.5;
     height: 100%;
     background-color: #A62626;
 }
@@ -27,23 +27,26 @@ body {
 .right-section {
     grid-column: span 5;
     height: 100%;
+    width: 130%;
     background-color: #F24C27;
     border-radius: 0px 60px 0px 0px;
 }
 
 .left-section-content{
-    padding: 2rem 2rem;
+    padding: 3rem 3rem;
+    align-items: center;
 }
 
 .profile {
     width: 100%;
     border-bottom: 2px solid #F2F2F2;
+    align-items: center;
 }
 
 .profile .profile-image {
     width: 100%;
-    border-radius: 50%;
-    border: 8px solid #F2F2F2;
+    border-radius: 100%;
+    border: 05px solid #F2F2F2;
 }
 
 .name {
@@ -69,13 +72,13 @@ body {
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
     color: #010326;
-    font-size: 20px;
-    letter-spacing: 2px;
+    font-size: 21px;
+    letter-spacing: 1px;
     text-transform: uppercase;
     font-weight: bold;
     display: flex;
     align-items: center;
-    padding-top: 3rem;
+    padding-top: 5rem;
 }
 
 .contact-info ul {
@@ -90,6 +93,7 @@ body {
     color: #F2F2F2;
     letter-spacing: 1px;
     font-size: 18px;
+    text-align: left;
 }
 
 .contact-info ul li i,
