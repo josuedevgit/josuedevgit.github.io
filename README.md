@@ -6,7 +6,7 @@ Um dos meus primeiros projetos, dentro de eventos e Bootcamps. Aqui foi possíve
 
 > - GIT
 
-# <a href="https://josuedevgit.github.io" target="_blank">Clique aqui para acessar o projeto!</a>
+# <a href="https://josuedevgit.github.io">Clique aqui para acessar o projeto!</a>
 
 ## 📧 Contato
 - josueluzsilva.01@gmail.com
